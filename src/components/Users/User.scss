@@ -1,0 +1,22 @@
+.users-list {
+  &__item {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    &:not(:last-child) {
+      border-bottom: 1px solid #000;
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+    }
+  }
+
+  &__name {
+    font-weight: 700;
+  }
+
+  &__age {
+    span {
+      font-weight: 700;
+    }
+  }
+}

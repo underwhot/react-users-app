@@ -1,0 +1,30 @@
+.user-form {
+  background-color: #999;
+  border-radius: 10px;
+  padding: 15px;
+  &:not(:last-child) {
+    margin-bottom: 30px;
+  }
+
+  &__row {
+    &:not(:last-child) {
+      margin-bottom: 15px;
+    }
+  }
+
+  &__label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  &__input {
+    min-height: 40px;
+    border-radius: 10px;
+    padding: 0 10px;
+    width: 100%;
+    border: none;
+  }
+
+  &__button {
+  }
+}
