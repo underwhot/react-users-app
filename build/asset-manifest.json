@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/underwhot.github.io/react-users-app/static/css/main.de5ba88c.css",
+    "main.js": "/underwhot.github.io/react-users-app/static/js/main.f255d285.js",
+    "index.html": "/underwhot.github.io/react-users-app/index.html",
+    "main.de5ba88c.css.map": "/underwhot.github.io/react-users-app/static/css/main.de5ba88c.css.map",
+    "main.f255d285.js.map": "/underwhot.github.io/react-users-app/static/js/main.f255d285.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5ba88c.css",
+    "static/js/main.f255d285.js"
+  ]
+}
